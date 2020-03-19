@@ -1,4 +1,4 @@
-:Author: HaydenMoir
+:Author: Hayden Moir
 :Email: {AuthorEmail}
 :Date: 11/02/2020
 :Revision: version#
